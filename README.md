@@ -1,90 +1,129 @@
 <div align="center">
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│ 🔴 🟡 🟢 rishavkumar7034@gmail.com — % ./profile.sh --live             │
-├────────────────────────────────────────────────────────────────────────┤
-│                                                                        │
-│  SYSTEM.INFO                                                ● LIVE     │
-│  ────────────────────────────────────────────────────────────────────  │
-│  Subject .............................................. Rishav Kumar   │
-│  Role ............................... Full-Stack, Cloud & AI Engineer  │
-│  Origin ........................................... Bengaluru, India   │
-│  Education ................... B.E. in ISE @ Acharya (8.20 CGPA)       │
-│  Status ................. Building Cloud Platforms + Shipping AI Apps  │
-│  ToolChain ............................. VS Code, Git, Docker, AWS     │
-│                                                                        │
-│  Core.Lang ................................. Java, Python, JavaScript  │
-│  Core.Frontend ...................... React, Next.js, TypeScript, Vite  │
-│  Core.Backend ...................... Node.js, FastAPI, Express, REST  │
-│  Core.Database ............................. MySQL, MongoDB, SQLite  │
-│  Core.Infra ........................ Docker, AWS S3, ECR, ECS, Vercel  │
-│                                                                        │
-│  Grid.Mail ................................ rishavkumar7034@gmail.com  │
-│  Grid.Portfolio .................. https://logintelligence-nu.vercel.app  │
-│  Grid.LinkedIn ....................................... rishavkumar12  │
-│  Grid.GitHub ............................................. rishav-026  │
-│  Grid.LeetCode ........................................... rishav1kr  │
-│                                                                        │
-│  More about me & projects below in README ↓                            │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
+<!-- Waving Gradient Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=220&section=header&text=Rishav%20Kumar&fontSize=50&fontAlignY=36&desc=Full-Stack%20%7C%20Cloud%20%7C%20AI%20Engineer%20%7C%202%C3%97%20Hackathon%20Winner&descSize=19&descAlignY=62&fontColor=ffffff" width="100%"/>
 
 <br/>
 
-<!-- GitHub Activity Stats Dashboard -->
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishav-026&theme=tokyonight&border=00f2fe&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe" alt="GitHub Streak" width="98%" />
+<!-- Animated Typing Subtitle -->
+<a href="https://github.com/rishav-026">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+%26+Cloud+Software+Engineer;2%C3%97+State+Hackathon+Winner+%F0%9F%8F%86;Oracle+Certified+AI+Associate+%F0%9F%93%9C;150%2B+DSA+Problems+Solved+on+LeetCode+%F0%9F%92%BB" alt="Typing Title" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishav-026&show_icons=true&theme=tokyonight&border_color=00f2fe&title_color=00f2fe&icon_color=00f2fe" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-026&layout=compact&theme=tokyonight&border_color=00f2fe&title_color=00f2fe" alt="Top Languages" width="49%" />
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Interactive_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://github.com/rishav-026/MyPortfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumar12/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav-026)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishav1kr/)
+
+---
+
+### 💡 *"Engineering scalable cloud deployment platforms, AI log triage systems, and blockchain audit architectures."*
 
 </div>
 
 <br/>
 
-## 📁 `PROJECTS.LIST` &nbsp;&nbsp; `./projects.sh --all`
+## ⚡ Executive Summary
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Background & Credentials</h3>
+      <ul>
+        <li><b>Degree:</b> B.E. Information Science & Engineering @ Acharya Institute of Technology, Bengaluru (2023–2027)</li>
+        <li><b>Academic CGPA:</b> <b>8.20 / 10</b></li>
+        <li><b>Certification:</b> <b>Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</b></li>
+        <li><b>Problem Solving:</b> <b>150+ DSA Problems Solved</b> in Java on LeetCode (<code>@rishav1kr</code>)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Hackathon Wins & Honors</h3>
+      <ul>
+        <li><b>🥈 2nd Place Winner:</b> <b>Srujana State Hackathon 2025</b> out of 100+ teams for building <i>CivicSim</i></li>
+        <li><b>🏆 Winner:</b> <b>State Hackathon Winner</b> for <i>Sarkaar Sarthi AI Multilingual Welfare Assistant</i></li>
+        <li><b>🚀 Production Apps:</b> 8+ scalable full-stack, cloud & AI systems</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
+
+## 🚀 Featured Software Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ 1. Vercel Clone</h3>
+      <p><b>Automated Full-Stack Cloud Deployment Platform</b></p>
+      <p>Clones Git repos, executes isolated Docker container builds, streams deployment logs, and deploys static assets to AWS S3 with custom wildcard subdomains.</p>
+      <p><code>React</code> • <code>Node.js</code> • <code>Docker</code> • <code>AWS S3</code> • <code>ECS</code></p>
+      <p><a href="https://github.com/rishav-026/Vercel-clone"><b>View Code Repository »</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 2. LogIntelligence</h3>
+      <p><b>DevOps AI Incident Diagnosis Platform</b></p>
+      <p>Transforms raw log dumps into structured incident reports and deterministic operational playbooks for PostgreSQL, Redis, Kafka, and Kubernetes with zero AI hallucinations.</p>
+      <p><code>FastAPI</code> • <code>Python</code> • <code>LangChain</code> • <code>Llama 3</code> • <code>Next.js</code></p>
+      <p><a href="https://logintelligence-nu.vercel.app/"><b>🚀 Launch Live Application »</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ 3. InfraLedger</h3>
+      <p><b>Blockchain Infrastructure Transparency Platform</b></p>
+      <p>Permanently records government project milestones and IPFS document hashes on the Polygon blockchain to eliminate public fund misuse.</p>
+      <p><code>React</code> • <code>Polygon</code> • <code>Ethers.js</code> • <code>IPFS</code> • <code>Prisma</code></p>
+      <p><a href="https://infra-ledgar-1.vercel.app/"><b>🚀 Launch Live Application »</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ 4. CivicSim</h3>
+      <p><b>AI Civic Transparency Platform (Srujana 2025 Winner)</b></p>
+      <p>Achieved 90%+ OCR data extraction accuracy analyzing public grant receipts and cross-verifying entries against data.gov.in APIs for corruption detection.</p>
+      <p><code>Python</code> • <code>FastAPI</code> • <code>Tesseract OCR</code> • <code>Gemini AI</code></p>
+      <p><a href="https://github.com/Rishabh-afk-beep/Civic-Sim"><b>View Code Repository »</b></a></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 💻 Tech Stack & Frameworks
 
 <div align="center">
 
-```text
-┌───────────────────────────────────────┬───────────────────────────────────────┐
-│ ⚡ rishav-026 / Vercel-clone          │ 🧠 rishav-026 / LogIntelligence       │
-│ Full-Stack Cloud Deployment Platform  │ DevOps AI Incident Diagnosis Engine   │
-│ • Docker: 45%  Node.js: 35%  AWS: 20% │ • Python: 55%  LangChain: 25% React: 20%│
-│ 🏆 Git-to-Cloud build pipeline        │ 🔗 Live: logintelligence-nu.vercel.app│
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│ 🛡️ rishav-026 / InfraLedger           │ 🏛️ rishav-026 / CivicSim             │
-│ Blockchain Infrastructure Audit       │ AI Civic Transparency (Srujana 2025)  │
-│ • Polygon: 40% Ethers: 30% Prisma: 30%│ • Python: 50% Gemini: 30% OCR: 20%  │
-│ 🔗 Live: infra-ledgar-1.vercel.app    │ 🏆 2nd Place Srujana State Hackathon  │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│ 🇮🇳 rishav-026 / Sarkaar-Sarthi        │ 📄 rishav-026 / Invoice-Extractor     │
-│ AI Multilingual Welfare Assistant     │ Cloud Vision OCR Invoice Parser       │
-│ • RAG: 45%  React: 35%  MySQL: 20%   │ • Flask: 50%  OCR: 30%  Python: 20%   │
-│ 🏆 State Hackathon Winner (10+ Langs) │ 🚀 High-accuracy OCR tabular parsing  │
-└───────────────────────────────────────┴───────────────────────────────────────┘
-```
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 <br/>
 
-## 🏆 HACKATHON.WINS &nbsp;&nbsp; `./achievements.sh`
+## 📈 Verified Performance & Metrics
 
-| Honor / Award | Organization / Event | Tech Stack | Details & Verification |
-| :--- | :--- | :--- | :--- |
-| 🥈 **2nd Place Winner** | **Srujana State Hackathon 2025** | Python, Gemini AI, OCR, FastAPI | [CivicSim Code](https://github.com/Rishabh-afk-beep/Civic-Sim) |
-| 🏆 **State Winner** | **Sarkaar Sarthi AI Platform** | React, RAG, Node.js, MySQL | [Sarkaar Sarthi Code](https://github.com/rishav-026/SARKAAR-SAARTHI) |
-| 📜 **Oracle Certified** | **Oracle OCI AI Foundations (2025)** | AI/ML, LLMs, OCI Cloud | Verified Credential |
-| 💻 **150+ DSA Solved** | **LeetCode (@rishav1kr)** | Java, Algorithms, Data Structures | [LeetCode Profile](https://leetcode.com/u/rishav1kr/) |
+<div align="center">
+
+| Metric Category | Value / Status | Verification Badge |
+| :--- | :--- | :--- |
+| **Total Contributions** | 200+ Contributions | ![Contributions](https://img.shields.io/badge/Contributions-200%2B-10B981?style=for-the-badge&logo=github) |
+| **State Hackathon Wins** | 2 Wins (CivicSim & Sarkaar Sarthi) | ![Hackathons](https://img.shields.io/badge/State_Hackathons-2_Wins-F59E0B?style=for-the-badge&logo=trophy) |
+| **LeetCode Solved** | 150+ DSA Problems (Java) | ![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Solved-FFA116?style=for-the-badge&logo=leetcode) |
+| **Oracle Certification** | OCI 2025 Certified AI Associate | ![Oracle](https://img.shields.io/badge/Oracle_Cert-OCI_AI_2025-C74634?style=for-the-badge&logo=oracle) |
+| **Academic CGPA** | 8.20 / 10 (Acharya Institute) | ![CGPA](https://img.shields.io/badge/Academic_CGPA-8.20_%2F_10-3B82F6?style=for-the-badge&logo=academic) |
+
+</div>
 
 <br/>
 
@@ -94,17 +133,20 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/in-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumar12/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumar12/)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://logintelligence-nu.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://logintelligence-nu.vercel.app/)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/github-GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav-026)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav-026)
 &nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/leetcode-LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishav1kr/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishav1kr/)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/mail-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavkumar7034@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavkumar7034@gmail.com)
 
-<br/>
+<br/><br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=footer" width="100%"/>
 
 *Designed & Engineered with ❤️ by Rishav Kumar*
 
