@@ -1,139 +1,114 @@
 <div align="center">
 
-<!-- Futuristic Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=230&section=header&text=Rishav%20Kumar&fontSize=52&fontAlignY=36&desc=Full-Stack%20%7C%20Cloud%20%7C%20AI%20Engineer%20%7C%202%C3%97%20Hackathon%20Winner&descSize=19&descAlignY=62&fontColor=ffffff" width="100%"/>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Interactive_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://github.com/rishav-026/MyPortfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumar12/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav-026)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishav1kr/)
-
----
-
-### 💡 *"Engineering scalable cloud deployment platforms, AI log triage systems, and blockchain audit architectures."*
+```text
+ ╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+ ║  🔴 🟡 🟢  rishavkumar7034@gmail.com — % ./profile.sh --live                                                 ║
+ ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+ ║                                                                                                              ║
+ ║   VISUAL.MAP                                  SYSTEM.INFO                                          ● LIVE    ║
+ ║  ┌───────────────────────────┐                ──────────────────────────────────────────────────────────     ║
+ ║  │   /\   /\                 │                Subject ..................................... Rishav Kumar     ║
+ ║  │  /  \ /  \  ⚡ CODE       │                Role ...................... Full-Stack, Cloud & AI Engineer    ║
+ ║  │ (  .   .  ) 🐱 ONEKO      │                Origin .................................. Bengaluru, India     ║
+ ║  │  (  "  )    🚀 DEPLOY     │                Education .......... B.E. in ISE @ Acharya (8.20 CGPA)    ║
+ ║  │   /  \                    │                Status ........ Building Cloud Platforms + Shipping AI Apps    ║
+ ║  │  (____)                   │                ToolChain .................... VS Code, Git, Docker, AWS     ║
+ ║  └───────────────────────────┘                                                                               ║
+ ║                                               Core.Lang ........................ Java, Python, JavaScript     ║
+ ║                                               Core.Frontend ............. React, Next.js, TypeScript, Vite     ║
+ ║                                               Core.Backend ............. Node.js, FastAPI, Express, REST     ║
+ ║                                               Core.Database .................... MySQL, MongoDB, SQLite     ║
+ ║                                               Core.Infra ............... Docker, AWS S3, ECR, ECS, Vercel     ║
+ ║                                                                                                              ║
+ ║                                               - Contact                                                      ║
+ ║                                               Grid.Mail ....................... rishavkumar7034@gmail.com     ║
+ ║                                               Grid.Portfolio ......... https://logintelligence-nu.vercel.app     ║
+ ║                                               Grid.LinkedIn .............................. rishavkumar12     ║
+ ║                                               Grid.GitHub .................................... rishav-026     ║
+ ║                                               Grid.LeetCode .................................. rishav1kr     ║
+ ║                                                                                                              ║
+ ║  More about me & projects below in README ↓                                                                  ║
+ ╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <br/>
 
-<!-- Expandable 30-Second Recruiter Summary -->
-<details>
-<summary>⚡ <b>Click to expand 30-Second Executive Summary</b></summary>
+<!-- GitHub Activity Stats Dashboard -->
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishav-026&theme=tokyonight&border=00f2fe&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe" alt="GitHub Streak" width="98%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishav-026&show_icons=true&theme=tokyonight&border_color=00f2fe&title_color=00f2fe&icon_color=00f2fe" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-026&layout=compact&theme=tokyonight&border_color=00f2fe&title_color=00f2fe" alt="Top Languages" width="49%" />
+
+</div>
 
 <br/>
 
-- 👤 **Candidate:** Rishav Kumar
-- 🎓 **Degree:** B.E. Information Science and Engineering @ **Acharya Institute of Technology, Bengaluru** (2023 – 2027) • **CGPA: 8.20 / 10**
-- 🏆 **Awards:** **2× State Hackathon Winner** (*Srujana State Hackathon 2025 2nd Place* for CivicSim & *Winner* for Sarkaar Sarthi AI)
-- 📜 **Certification:** **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** (Oracle University)
-- 💻 **Problem Solving:** **150+ DSA Problems Solved** in Java on [LeetCode (@rishav1kr)](https://leetcode.com/u/rishav1kr/)
-- 📬 **Contact:** `rishavkumar7034@gmail.com` • `+91 6204627879` • Bangalore, India
-</details>
+## 📁 `PROJECTS.LIST` &nbsp;&nbsp; `./projects.sh --all`
 
 <br/>
 
-## 👤 About Me
+<div align="center">
 
-- 🎓 Pursuing B.E. Information Science & Engineering @ **Acharya Institute of Technology, Bengaluru** (2023–2027) with **CGPA: 8.20 / 10**
-- 🏆 **2× State Hackathon Winner** (*CivicSim* & *Sarkaar Sarthi AI*)
-- 📜 **Oracle Certified AI Foundations Associate (2025)**
-- 💻 **150+ Data Structures & Algorithms** solved in Java on LeetCode
-- 🚀 Engineered **8+ production applications** including Vercel Clone, LogIntelligence, InfraLedger, and CivicSim
+```text
+┌─────────────────────────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ ⚡ rishav-026 / Vercel-clone                                 │ 🧠 rishav-026 / LogIntelligence                             │
+│ Automated Full-Stack Cloud Deployment Platform              │ DevOps AI Incident Diagnosis & Playbook Generator           │
+│                                                             │                                                             │
+│ • Docker: 45%   • Node.js: 35%   • AWS S3: 20%              │ • Python/FastAPI: 55%   • LangChain: 25%   • React: 20%    │
+│ 🏆 Automated Git-to-Cloud build pipeline                   │ 🔗 Live Demo: logintelligence-nu.vercel.app                 │
+├─────────────────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ 🛡️ rishav-026 / InfraLedger                                 │ 🏛️ rishav-026 / CivicSim                                   │
+│ Blockchain Infrastructure Transparency Audit Platform       │ AI Civic Transparency & Fraud Detection (Srujana 2025)     │
+│                                                             │                                                             │
+│ • Polygon: 40%   • Ethers.js: 30%   • Prisma: 30%            │ • Python: 50%   • Gemini AI: 30%   • OCR: 20%                 │
+│ 🔗 Live Demo: infra-ledgar-1.vercel.app                     │ 🏆 2nd Place Winner @ Srujana State Hackathon 2025          │
+├─────────────────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ 🇮🇳 rishav-026 / Sarkaar-Sarthi                             │ 📄 rishav-026 / Invoice-Processing-Tool                    │
+│ AI Multilingual Welfare Platform (State Hackathon Winner)   │ Cloud Vision Automated Invoice Extraction System            │
+│                                                             │                                                             │
+│ • RAG Search: 45%   • React: 35%   • MySQL: 20%               │ • Flask: 50%   • Cloud Vision OCR: 30%   • Python: 20%       │
+│ 🏆 State Hackathon Winner (10+ Indian Languages)            │ 🚀 High-accuracy tabular OCR parsing                        │
+└─────────────────────────────────────────────────────────────┴─────────────────────────────────────────────────────────────┘
+```
 
----
+</div>
 
-## 🏆 Key Accomplishments & Hackathon Wins
+<br/>
 
-| Honor / Award | Organization / Project | Key Highlight | Verification |
+## 🏆 HACKATHON.WINS &nbsp;&nbsp; `./achievements.sh`
+
+| Honor / Award | Organization / Event | Tech Stack | Details & Verification |
 | :--- | :--- | :--- | :--- |
-| 🥈 **2nd Place Winner** | **CivicSim** @ Srujana State Hackathon 2025 | AI municipal document verification & fraud anomaly scoring | [CivicSim Repo](https://github.com/Rishabh-afk-beep/Civic-Sim) |
-| 🏆 **Hackathon Winner** | **Sarkaar Sarthi** @ State Hackathon | AI multilingual government welfare assistant with RAG | [Sarkaar Sarthi Repo](https://github.com/rishav-026/SARKAAR-SAARTHI) |
-| 📜 **Oracle Certified** | **Oracle University (2025)** | Certified OCI AI Foundations Associate | Verified Credential |
-| 💻 **150+ DSA Solved** | **LeetCode (@rishav1kr)** | Arrays, Trees, Graphs, Dynamic Programming & Heap | [LeetCode Profile](https://leetcode.com/u/rishav1kr/) |
+| 🥈 **2nd Place Winner** | **Srujana State Hackathon 2025** | Python, Gemini AI, OCR, FastAPI | [CivicSim Code](https://github.com/Rishabh-afk-beep/Civic-Sim) |
+| 🏆 **State Winner** | **Sarkaar Sarthi AI Platform** | React, RAG, Node.js, MySQL | [Sarkaar Sarthi Code](https://github.com/rishav-026/SARKAAR-SAARTHI) |
+| 📜 **Oracle Certified** | **Oracle OCI AI Foundations (2025)** | AI/ML, LLMs, OCI Cloud | Verified Credential |
+| 💻 **150+ DSA Solved** | **LeetCode (@rishav1kr)** | Java, Algorithms, Data Structures | [LeetCode Profile](https://leetcode.com/u/rishav1kr/) |
+
+<br/>
 
 ---
 
-## 🚀 Featured Software Projects
-
-### 1. ⚡ [Vercel Clone](https://github.com/rishav-026/Vercel-clone) — Full-Stack Cloud Deployment Platform
-* **Overview:** Automated cloud deployment platform inspired by Vercel that clones Git repositories, spins up isolated Docker container builds, streams real-time deployment logs, and deploys static assets to AWS S3 with wildcard subdomains.
-* **Tech Stack:** `React` • `Node.js` • `Docker` • `AWS S3` • `AWS ECR` • `AWS ECS`
-
-### 2. 🧠 [LogIntelligence](https://github.com/rishav-026/LogIntelligence) — DevOps AI Incident Diagnosis Platform
-* 🔗 **Live Demo:** [logintelligence-nu.vercel.app](https://logintelligence-nu.vercel.app/)
-* **Overview:** Converts raw production log dumps into structured incident reports and deterministic operational playbooks for PostgreSQL, Redis, Kafka, and Kubernetes with zero AI hallucinations.
-* **Tech Stack:** `FastAPI` • `Python` • `React` • `Next.js` • `LangChain` • `Ollama (Llama 3)`
-
-### 3. 🛡️ [InfraLedger](https://github.com/rishav-026/INFRA-LEDGAR) — Blockchain Infrastructure Transparency Platform
-* 🔗 **Live Demo:** [infra-ledgar-1.vercel.app](https://infra-ledgar-1.vercel.app/)
-* **Overview:** Permanently records government infrastructure project milestones and IPFS Pinata document hashes on the Polygon blockchain to eliminate public fund misuse.
-* **Tech Stack:** `React` • `Node.js` • `Express` • `Polygon` • `Ethers.js` • `IPFS` • `Prisma`
-
-### 4. 🏛️ [CivicSim](https://github.com/Rishabh-afk-beep/Civic-Sim) — AI Civic Transparency Platform *(2nd Place @ Srujana 2025)*
-* **Overview:** Achieved 90%+ OCR data extraction accuracy analyzing public grant receipts and cross-verifying entries against data.gov.in APIs for corruption detection.
-* **Tech Stack:** `Python` • `FastAPI` • `React` • `Tesseract OCR` • `Google Gemini AI`
-
-### 5. 🇮🇳 [Sarkaar Sarthi](https://github.com/rishav-026/SARKAAR-SAARTHI) — AI Multilingual Welfare Assistant *(State Hackathon Winner)*
-* **Overview:** RAG-based AI chatbot providing step-by-step guidance on Indian government welfare schemes in English, Hindi, Kannada, Tamil + 7 Indian languages with voice interaction.
-* **Tech Stack:** `React` • `Node.js` • `Express` • `FAISS Vector Search` • `MySQL` • `RAG`
-
----
-
-## 💻 Tech Stack & Skills Matrix
+<br/>
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/in-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumar12/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://logintelligence-nu.vercel.app/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/github-GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav-026)
+&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/leetcode-LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishav1kr/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/mail-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavkumar7034@gmail.com)
 
-</div>
-
----
-
-## 📈 Engineering Metrics & Verification
-
-<div align="center">
-
-| Metric Category | Value / Status | Verification Badge |
-| :--- | :--- | :--- |
-| **Total GitHub Contributions** | 200+ Contributions | ![Contributions](https://img.shields.io/badge/Contributions-200%2B-10B981?style=for-the-badge&logo=github) |
-| **State Hackathon Wins** | 2 Wins (CivicSim & Sarkaar Sarthi) | ![Hackathons](https://img.shields.io/badge/State_Hackathons-2_Wins-F59E0B?style=for-the-badge&logo=trophy) |
-| **LeetCode Problems Solved** | 150+ DSA Solved (Java) | ![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Solved-FFA116?style=for-the-badge&logo=leetcode) |
-| **Oracle AI Certification** | OCI 2025 Certified AI Associate | ![Oracle](https://img.shields.io/badge/Oracle_Cert-OCI_AI_2025-C74634?style=for-the-badge&logo=oracle) |
-| **Academic CGPA** | 8.20 / 10 (Acharya Institute) | ![CGPA](https://img.shields.io/badge/Academic_CGPA-8.20_%2F_10-3B82F6?style=for-the-badge&logo=academic) |
-
-</div>
-
----
-
-## 📫 Connect & Contact Info
-
-- 📧 **Email:** [rishavkumar7034@gmail.com](mailto:rishavkumar7034@gmail.com)
-- 📞 **Phone:** [+91 6204627879](tel:+916204627879)
-- 📍 **Location:** Bangalore, India
-- 🐙 **GitHub:** [github.com/rishav-026](https://github.com/rishav-026)
-- 💼 **LinkedIn:** [linkedin.com/in/rishavkumar12](https://www.linkedin.com/in/rishavkumar12/)
-- 💻 **LeetCode:** [leetcode.com/u/rishav1kr](https://leetcode.com/u/rishav1kr/)
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=footer" width="100%"/>
+<br/>
 
 *Designed & Engineered with ❤️ by Rishav Kumar*
 
