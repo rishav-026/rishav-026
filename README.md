@@ -105,26 +105,17 @@
 
 ---
 
-## 📈 GitHub Activity & LeetCode Analytics
+## 📈 Live GitHub Contributions & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishav-026&show_icons=true&theme=tokyonight&count_private=true" alt="Rishav's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishav-026&theme=tokyonight" alt="GitHub Streak" width="48%" />
+<img src="https://ghchart.rshah.org/10b981/rishav-026" alt="Rishav's Live GitHub Contribution Chart" width="100%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-026&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
-<img src="https://leetcode-stats-api.herokuapp.com/rishav1kr" alt="LeetCode Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rishav-026&show_icons=true&theme=dark&border_color=10b981&title_color=10b981" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-026&layout=compact&theme=dark&border_color=10b981&title_color=10b981" alt="Top Languages" width="48%" />
 
-</div>
-
----
-
-## 🐍 Contribution Graph Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rishav-026/rishav-026/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
 </div>
 
 ---
