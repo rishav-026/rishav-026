@@ -1,34 +1,33 @@
 <div align="center">
 
 ```text
- ╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
- ║  🔴 🟡 🟢  rishavkumar7034@gmail.com — % ./profile.sh --live                                                 ║
- ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
- ║                                                                                                              ║
- ║   VISUAL.MAP                                  SYSTEM.INFO                                          ● LIVE    ║
- ║  ┌───────────────────────────┐                ──────────────────────────────────────────────────────────     ║
- ║  │   /\   /\                 │                Subject ..................................... Rishav Kumar     ║
- ║  │  /  \ /  \  ⚡ CODE       │                Role ...................... Full-Stack, Cloud & AI Engineer    ║
- ║  │ (  .   .  ) 🐱 ONEKO      │                Origin .................................. Bengaluru, India     ║
- ║  │  (  "  )    🚀 DEPLOY     │                Education .......... B.E. in ISE @ Acharya (8.20 CGPA)    ║
- ║  │   /  \                    │                Status ........ Building Cloud Platforms + Shipping AI Apps    ║
- ║  │  (____)                   │                ToolChain .................... VS Code, Git, Docker, AWS     ║
- ║  └───────────────────────────┘                                                                               ║
- ║                                               Core.Lang ........................ Java, Python, JavaScript     ║
- ║                                               Core.Frontend ............. React, Next.js, TypeScript, Vite     ║
- ║                                               Core.Backend ............. Node.js, FastAPI, Express, REST     ║
- ║                                               Core.Database .................... MySQL, MongoDB, SQLite     ║
- ║                                               Core.Infra ............... Docker, AWS S3, ECR, ECS, Vercel     ║
- ║                                                                                                              ║
- ║                                               - Contact                                                      ║
- ║                                               Grid.Mail ....................... rishavkumar7034@gmail.com     ║
- ║                                               Grid.Portfolio ......... https://logintelligence-nu.vercel.app     ║
- ║                                               Grid.LinkedIn .............................. rishavkumar12     ║
- ║                                               Grid.GitHub .................................... rishav-026     ║
- ║                                               Grid.LeetCode .................................. rishav1kr     ║
- ║                                                                                                              ║
- ║  More about me & projects below in README ↓                                                                  ║
- ╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+┌────────────────────────────────────────────────────────────────────────┐
+│ 🔴 🟡 🟢 rishavkumar7034@gmail.com — % ./profile.sh --live             │
+├────────────────────────────────────────────────────────────────────────┤
+│                                                                        │
+│  SYSTEM.INFO                                                ● LIVE     │
+│  ────────────────────────────────────────────────────────────────────  │
+│  Subject .............................................. Rishav Kumar   │
+│  Role ............................... Full-Stack, Cloud & AI Engineer  │
+│  Origin ........................................... Bengaluru, India   │
+│  Education ................... B.E. in ISE @ Acharya (8.20 CGPA)       │
+│  Status ................. Building Cloud Platforms + Shipping AI Apps  │
+│  ToolChain ............................. VS Code, Git, Docker, AWS     │
+│                                                                        │
+│  Core.Lang ................................. Java, Python, JavaScript  │
+│  Core.Frontend ...................... React, Next.js, TypeScript, Vite  │
+│  Core.Backend ...................... Node.js, FastAPI, Express, REST  │
+│  Core.Database ............................. MySQL, MongoDB, SQLite  │
+│  Core.Infra ........................ Docker, AWS S3, ECR, ECS, Vercel  │
+│                                                                        │
+│  Grid.Mail ................................ rishavkumar7034@gmail.com  │
+│  Grid.Portfolio .................. https://logintelligence-nu.vercel.app  │
+│  Grid.LinkedIn ....................................... rishavkumar12  │
+│  Grid.GitHub ............................................. rishav-026  │
+│  Grid.LeetCode ........................................... rishav1kr  │
+│                                                                        │
+│  More about me & projects below in README ↓                            │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -56,25 +55,22 @@
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
-│ ⚡ rishav-026 / Vercel-clone                                 │ 🧠 rishav-026 / LogIntelligence                             │
-│ Automated Full-Stack Cloud Deployment Platform              │ DevOps AI Incident Diagnosis & Playbook Generator           │
-│                                                             │                                                             │
-│ • Docker: 45%   • Node.js: 35%   • AWS S3: 20%              │ • Python/FastAPI: 55%   • LangChain: 25%   • React: 20%    │
-│ 🏆 Automated Git-to-Cloud build pipeline                   │ 🔗 Live Demo: logintelligence-nu.vercel.app                 │
-├─────────────────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────┤
-│ 🛡️ rishav-026 / InfraLedger                                 │ 🏛️ rishav-026 / CivicSim                                   │
-│ Blockchain Infrastructure Transparency Audit Platform       │ AI Civic Transparency & Fraud Detection (Srujana 2025)     │
-│                                                             │                                                             │
-│ • Polygon: 40%   • Ethers.js: 30%   • Prisma: 30%            │ • Python: 50%   • Gemini AI: 30%   • OCR: 20%                 │
-│ 🔗 Live Demo: infra-ledgar-1.vercel.app                     │ 🏆 2nd Place Winner @ Srujana State Hackathon 2025          │
-├─────────────────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────┤
-│ 🇮🇳 rishav-026 / Sarkaar-Sarthi                             │ 📄 rishav-026 / Invoice-Processing-Tool                    │
-│ AI Multilingual Welfare Platform (State Hackathon Winner)   │ Cloud Vision Automated Invoice Extraction System            │
-│                                                             │                                                             │
-│ • RAG Search: 45%   • React: 35%   • MySQL: 20%               │ • Flask: 50%   • Cloud Vision OCR: 30%   • Python: 20%       │
-│ 🏆 State Hackathon Winner (10+ Indian Languages)            │ 🚀 High-accuracy tabular OCR parsing                        │
-└─────────────────────────────────────────────────────────────┴─────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────┬───────────────────────────────────────┐
+│ ⚡ rishav-026 / Vercel-clone          │ 🧠 rishav-026 / LogIntelligence       │
+│ Full-Stack Cloud Deployment Platform  │ DevOps AI Incident Diagnosis Engine   │
+│ • Docker: 45%  Node.js: 35%  AWS: 20% │ • Python: 55%  LangChain: 25% React: 20%│
+│ 🏆 Git-to-Cloud build pipeline        │ 🔗 Live: logintelligence-nu.vercel.app│
+├───────────────────────────────────────┼───────────────────────────────────────┤
+│ 🛡️ rishav-026 / InfraLedger           │ 🏛️ rishav-026 / CivicSim             │
+│ Blockchain Infrastructure Audit       │ AI Civic Transparency (Srujana 2025)  │
+│ • Polygon: 40% Ethers: 30% Prisma: 30%│ • Python: 50% Gemini: 30% OCR: 20%  │
+│ 🔗 Live: infra-ledgar-1.vercel.app    │ 🏆 2nd Place Srujana State Hackathon  │
+├───────────────────────────────────────┼───────────────────────────────────────┤
+│ 🇮🇳 rishav-026 / Sarkaar-Sarthi        │ 📄 rishav-026 / Invoice-Extractor     │
+│ AI Multilingual Welfare Assistant     │ Cloud Vision OCR Invoice Parser       │
+│ • RAG: 45%  React: 35%  MySQL: 20%   │ • Flask: 50%  OCR: 30%  Python: 20%   │
+│ 🏆 State Hackathon Winner (10+ Langs) │ 🚀 High-accuracy OCR tabular parsing  │
+└───────────────────────────────────────┴───────────────────────────────────────┘
 ```
 
 </div>
