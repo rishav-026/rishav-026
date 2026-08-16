@@ -12,7 +12,8 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Interactive_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://github.com/rishav-026/MyPortfolio)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Interactive_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://my-portfolio-one-beryl-52.vercel.app/)
+[![Resume](https://img.shields.io/badge/📄_View_Resume_PDF-EAB308?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://github.com/rishav-026/MyPortfolio/raw/main/public/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumar12/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav-026)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishav1kr/)
@@ -36,6 +37,7 @@
         <li><b>Academic CGPA:</b> <b>8.20 / 10</b></li>
         <li><b>Certification:</b> <b>Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</b></li>
         <li><b>Problem Solving:</b> <b>150+ DSA Problems Solved</b> in Java on LeetCode (<code>@rishav1kr</code>)</li>
+        <li><b>Resume:</b> <a href="https://github.com/rishav-026/MyPortfolio/raw/main/public/resume.pdf"><b>📄 Download Resume PDF</b></a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -43,6 +45,7 @@
       <ul>
         <li><b>🥈 2nd Place Winner:</b> <b>Srujana State Hackathon 2025</b> out of 100+ teams for building <i>CivicSim</i></li>
         <li><b>🏆 Winner:</b> <b>State Hackathon Winner</b> for <i>Sarkaar Sarthi AI Multilingual Welfare Assistant</i></li>
+        <li><b>🌐 Live Portfolio:</b> <a href="https://my-portfolio-one-beryl-52.vercel.app/"><b>my-portfolio-one-beryl-52.vercel.app</b></a></li>
         <li><b>🚀 Production Apps:</b> 8+ scalable full-stack, cloud & AI systems</li>
       </ul>
     </td>
@@ -133,15 +136,17 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumar12/)
+[![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://my-portfolio-one-beryl-52.vercel.app/)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://logintelligence-nu.vercel.app/)
+[![Resume](https://img.shields.io/badge/📄_VIEW_RESUME-EAB308?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://github.com/rishav-026/MyPortfolio/raw/main/public/resume.pdf)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav-026)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumar12/)
 &nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishav1kr/)
+[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav-026)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavkumar7034@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishav1kr/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavkumar7034@gmail.com)
 
 <br/><br/>
 
