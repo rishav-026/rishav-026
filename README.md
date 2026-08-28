@@ -45,7 +45,7 @@
       <ul>
         <li><b>🥈 2nd Place Winner:</b> <b>Srujana State Hackathon 2025</b> out of 100+ teams for building <i>CivicSim</i></li>
         <li><b>🏆 Winner:</b> <b>State Hackathon Winner</b> for <i>Sarkaar Sarthi AI Multilingual Welfare Assistant</i></li>
-        <li><b>🌐 Live Portfolio:</b> <a href="https://my-portfolio-one-beryl-52.vercel.app/"><b>my-portfolio-one-beryl-52.vercel.app</b></a></li>
+        <li><b>🌐 Live Portfolio:</b> <a href="https://rishavportfolio.me/"><b>my-portfolio-one-beryl-52.vercel.app</b></a></li>
         <li><b>🚀 Production Apps:</b> 8+ scalable full-stack, cloud & AI systems</li>
       </ul>
     </td>
