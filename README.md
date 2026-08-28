@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Interactive_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://my-portfolio-one-beryl-52.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Interactive_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://rishavportfolio.me/)
 [![Resume](https://img.shields.io/badge/📄_View_Resume_PDF-EAB308?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://github.com/rishav-026/MyPortfolio/blob/main/public/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumar12/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav-026)
