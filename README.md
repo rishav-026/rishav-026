@@ -136,7 +136,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://my-portfolio-one-beryl-52.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=10B981)](https://rishavportfolio.me/)
 &nbsp;&nbsp;
 [![Resume](https://img.shields.io/badge/📄_VIEW_RESUME-EAB308?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://github.com/rishav-026/MyPortfolio/blob/main/public/resume.pdf)
 &nbsp;&nbsp;
